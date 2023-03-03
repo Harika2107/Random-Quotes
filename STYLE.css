@@ -1,0 +1,7 @@
+body{background-color:bisque;}
+.container{width:1000px;height:500px;border:15px gray outset;border-radius: 100px;background-color: rgb(8, 43, 113);margin-top: 8%;}
+h1{color:khaki;padding-top: 45px;font-size: 50px;}
+#gap{width:800px;height:200px;background-color:inherit;}
+#display{color: rgb(243, 250, 250);font-size: 25px;padding-top: 5%;font-style: italic;}
+#Author{color:black;font-size: medium;}
+#Generate{width:200px;height:50px;border: 5px double rgb(35, 58, 58);background-color: yellow;color: rgb(117, 26, 26);font-size: medium;margin-top: 4%;border-radius: 20%;padding-bottom: 10px;}
